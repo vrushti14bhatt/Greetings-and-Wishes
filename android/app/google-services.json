@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751912414539",
+    "project_id": "greetings-and-wishes",
+    "storage_bucket": "greetings-and-wishes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751912414539:android:6b2346d00eb957dd244cce",
+        "android_client_info": {
+          "package_name": "app.greetings.wishes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751912414539-ouqgmqgissa9gk1huqhok233ebvr2af1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB9UxmPg3Yv84oVLj82xhpf-txSA2fy_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751912414539-ouqgmqgissa9gk1huqhok233ebvr2af1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
